@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  BeaconSpot
-//
-//  Created by Gabriel Theodoropoulos on 10/3/15.
-//  Copyright (c) 2015 Appcoda. All rights reserved.
-//
 
 import UIKit
 
